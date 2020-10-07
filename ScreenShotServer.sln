@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSConsole", "SSConsole\SSConsole.csproj", "{ABC007A2-E2F9-4A3D-94EE-1BEF8F6F57DE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScreenShotServer", "ScreenShotServer\ScreenShotServer.csproj", "{DCA55428-2AE6-4DB5-807E-67FE7BF64FF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sage", "Sage\Sage.csproj", "{5557241C-22E6-4E57-BC67-7B679CE52A44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABC007A2-E2F9-4A3D-94EE-1BEF8F6F57DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC007A2-E2F9-4A3D-94EE-1BEF8F6F57DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC007A2-E2F9-4A3D-94EE-1BEF8F6F57DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC007A2-E2F9-4A3D-94EE-1BEF8F6F57DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCA55428-2AE6-4DB5-807E-67FE7BF64FF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA55428-2AE6-4DB5-807E-67FE7BF64FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA55428-2AE6-4DB5-807E-67FE7BF64FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA55428-2AE6-4DB5-807E-67FE7BF64FF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5557241C-22E6-4E57-BC67-7B679CE52A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5557241C-22E6-4E57-BC67-7B679CE52A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5557241C-22E6-4E57-BC67-7B679CE52A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5557241C-22E6-4E57-BC67-7B679CE52A44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06A977D0-6AEA-47E1-81A8-D07691C2036C}
+	EndGlobalSection
+EndGlobal
