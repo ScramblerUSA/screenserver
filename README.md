@@ -1,4 +1,4 @@
-# screenserver
+# ScreenShotServer
 
 An ugly quick hackjob of creating a client-server ecosystem for taking and remotely viewing screenshots from other computers.
 
